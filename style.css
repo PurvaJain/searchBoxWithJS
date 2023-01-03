@@ -1,0 +1,24 @@
+.search-section {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.search {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.card {
+  background: #ccc;
+  margin: 20px;
+  padding: 20px;
+}
+
+.email {
+  color: gray;
+}
+
+.hide {
+  display: none;
+}
